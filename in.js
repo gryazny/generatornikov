@@ -2,7 +2,6 @@ var a = ["[БЛЭТ]", "[ТОП]", "[ПОТ]", "[БАН]", "[ПРО]", "https://
 var b = ["adolfgitler", "zieghiel", "siskaputina", "adskyhach", "импатент", "navalny", "владимирзеленский", "bandera", "zigamyot", "konchavadima", "zalupamamonta"];
 var c = ["777", "666", "1488", "1161", "228", "46", "2014"];
 var d = [".com", ".ru", ".png", ".jpeg", ".txt", ".PRO MAX 64GB", ".exe"];
-
 var aa = a.length - 1;
 var bb = b.length - 1;
 var cc = c.length - 1;
